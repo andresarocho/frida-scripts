@@ -1,2 +1,5 @@
-# frida-scripts
-Repository for Frida Scripts
+# Frida Scripts
+
+http://www.frida.re/
+
+- [onlycoin.py]()
